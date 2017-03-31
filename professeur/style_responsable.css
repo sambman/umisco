@@ -1,0 +1,28 @@
+body
+{
+	padding-top: 50px;
+	background-color: #f8f8f8;
+
+}
+.sidebar
+{
+	padding-top: 15px;
+	border:solid #f8f8f8 3px;
+}
+#about
+{
+	width:350px;
+	height: 100px;
+}
+.footer
+{
+	background-color: blue;
+}
+#mceu_14-body
+{
+	width:600px;
+}
+.huge 
+{
+    font-size: 40px;
+}
